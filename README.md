@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Yaseen Saleem 👋
-### Solutions Architect · Full Stack Engineer · AI & Web3 Builder
+### Solutions Architect · Full Stack Engineer · Blockchain and AI Developer
 
 [![Email](https://img.shields.io/badge/yaseensaleem901@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaseensaleem901@gmail.com)
 [![Location](https://img.shields.io/badge/Lahore,%20Pakistan-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white)]()
@@ -12,23 +12,23 @@
 
 ## 🧠 About Me
 
-I'm a **Senior Full Stack Engineer & Solutions Architect** with **6+ years** of experience building scalable, production-grade products across **AI, Web3, Blockchain, Entertainment, and Healthcare** domains.
+I'm a **Senior Full Stack Engineer** with **6+ years** of experience building scalable, production-grade products across **AI, Web3, Blockchain, Crypto, Entertainment, and Healthcare** domains.
 
 I don't just write code — I architect systems, lead teams, and ship products that reach real users at scale. From a **$50M staking protocol** to an **AI music app** to a **therapy platform** used by hospitals — I build things that matter.
 
-> *Currently exploring AI Engineering — LLMs, RAG pipelines, AI Agents, and what comes next.*
+> *Currently building Blockchain + AI — smart Contracts, Web3 wallets, AI SAAS, decentralized infrastructure, and next-gen Web3 products.*
 
 ---
 
 ## 🚀 What I Build
 
 ```
-🤖  AI & LLM Systems       →  RAG Pipelines · LangChain · OpenAI Fine-tuning · AI Agents · MCP Servers
-⛓️  Web3 & Blockchain      →  dApps · Wallets · Token Bridges · NFT Marketplaces · L1 Ecosystems
+⛓️  Web3 & Blockchain      →  dApps · Wallets · Token Bridges · Staking Systems · NFT Infrastructure · L1 Ecosystems
+🤖  AI & LLM Systems       →  RAG Pipelines · AI Agents · LangChain · MCP Servers · OpenAI Integrations · Multi-modal AI
 🌐  Full Stack Web         →  Next.js · React.js · TypeScript · Node.js · Python/Flask
-📱  Mobile Apps            →  React Native · Expo · Cross-platform
-☁️  Cloud & DevOps         →  GCP · AWS · Vercel · CI/CD · Custom Server Deployments
-🔗  AI Automations         →  LLM Integrations · Workflow Automation · Multi-modal AI
+📱  Mobile Apps            →  React Native · Expo · Ionic · Cross-platform Native Apps
+☁️  Cloud & DevOps         →  AWS · GCP · Vercel · CI/CD · Custom Infrastructure Deployments
+🔗  AI Automations         →  Workflow Automation · LLM Workflows · AI SaaS Systems · Intelligent Integrations
 ```
 
 ---
@@ -36,10 +36,11 @@ I don't just write code — I architect systems, lead teams, and ship products t
 ## 🏆 Career Highlights
 
 - 🔷 **Dione Protocol** — Architected a full L1 blockchain ecosystem: Wallet (Mobile + Extension), Staking dApps, Token Bridge, Explorer, Name Service → **10,000+ active users · ~$50M staked assets**
-- 🟢 **Vaionex Corporation** — Built 4 B2B AI SaaS platforms in under 3 months → **sold to 20+ clients in multiple countries**
+- 🟢 **Vaionex Corporation** — Built a Web3 wallet + NFT Marketplace Shipped 4 AI SAAS MVPS under 3 months → **sold to 20+ clients in multiple countries**
+- 🔴 Crypto Autos — Built a crypto-powered automobile marketplace enabling users to buy/sell **vehicles using cryptocurrency**
 - 🔵 **Contour Software** — Built YouBook, a multi-tenant SaaS with auto white-labeling → **adopted by 12+ enterprise healthcare clients**
 - 🟣 **Relysia** — Built a full Web3 wallet ecosystem (Mobile + Web + NFT Marketplace) from scratch
-- 🟡 **Ecobeam** — Product that raised **$15K in pre-seed funding**
+- 🟡 **Ecobeam** — EV Charging & Parking Product that raised **$15K in pre-seed funding**
 
 ---
 
@@ -81,15 +82,16 @@ I'm going deep into AI Engineering — not just API wrappers, but real engineeri
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| 🌐 **Odyssey dApps Portal** | Unified Web3 ecosystem including Token Bridge, NFT Bridge, Validator Staking, and Staking Extension | Next.js · Web3 |
+| 🏷️ **Odyssey Name Service** | ENS-equivalent decentralized name resolution system for Odyssey L1 blockchain | Next.js · Web3 |
+| 🔍 **Odyssey Explorer** | Blockchain explorer for Odyssey L1 — transactions, blocks, wallets, validators, and token analytics | Next.js · Web3 |
+| 💼 **Dione Wallet** | Multi-platform crypto wallet with mobile app + browser extension, supporting NFTs, QR payments, and staking | React Native · Web3 |
 | 🎵 **Blarecast AI** | AI music platform — voice cloning, prompt-to-song, Spotify-grade UX | React Native · OpenAI |
-| 🏥 **YouBook** | Multi-tenant transit SaaS for 12+ hospitals with auto white-labeling | React · Node.js |
-| 🌐 **Odyssey Name Service** | ENS-equivalent name resolution for L1 blockchain | React · Web3 |
-| 🤖 **Chronic AI** | AI doctor with fine-tuned OpenAI model for prescription guidance | React Native · OpenAI |
 | 💊 **Makeover AI** | Multi-modal AI: hair, interior, fashion transformations | React Native · OpenAI |
-| 🎤 **Pitch AI** | LLM-powered business pitch analyzer with investor feedback | React · LLM |
-| 💼 **Relysia Wallet** | Full Web3 wallet SDK + mobile app — send/receive, NFTs, QR payments | React Native · Web3 |
 | 🚗 **Crypto Autos** | Car marketplace with crypto payment infrastructure | Next.js · Web3 |
 | 🧘 **UniteWell** | Therapy marketplace — patients, organizations, verified therapists | Next.js · Node.js |
+| 🏥 **YouBook** | Multi-tenant transit SaaS for 12+ hospitals with auto white-labeling | React · Node.js
+
 
 ---
 
