@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Yaseen Saleem 👋
-### Solutions Architect · Full Stack Engineer · Blockchain and AI Developer
+### Senior Blockchain Developer · Web3, Solidity, Go, Typescript, React native, EVM, Next.js, Node.js
 
 [![Email](https://img.shields.io/badge/yaseensaleem901@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaseensaleem901@gmail.com)
 [![Location](https://img.shields.io/badge/Lahore,%20Pakistan-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white)]()
