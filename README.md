@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-I'm a **Senior Full Stack Engineer & Solutions Architect** with **6+ years** of experience building scalable, production-grade products across **AI, Web3, SaaS, Mobile, and Healthcare** domains.
+I'm a **Senior Full Stack Engineer & Solutions Architect** with **6+ years** of experience building scalable, production-grade products across **AI, Web3, Blockchain, Entertainment, and Healthcare** domains.
 
 I don't just write code — I architect systems, lead teams, and ship products that reach real users at scale. From a **$50M staking protocol** to an **AI music app** to a **therapy platform** used by hospitals — I build things that matter.
 
